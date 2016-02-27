@@ -1,2 +1,2 @@
-# hello-world
-I'm just lookin'
+Programlama 2 Dersi
+Föy alıştırmaları ve ödevler
